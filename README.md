@@ -1,4 +1,4 @@
-# Makarovcalculater
+# Makarov calculater
 An simple calculater program with BASIC~
 
 これは、BASICでどのプログラム計算機です~
