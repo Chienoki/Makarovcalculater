@@ -1,2 +1,2 @@
 # Makarov calculater
-An simple calculater program with BASIC OWO
+An simple calculater wrote in Basic
